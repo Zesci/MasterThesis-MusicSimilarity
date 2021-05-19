@@ -6,6 +6,6 @@ Konzept und Fortschritt: https://drive.google.com/drive/folders/1wSd60Z-gddpWo21
 schriftlicher Teil: https://de.overleaf.com/8867668541ghdfwcgjzcsg
 
 Ziele der Thesis:
-  -> Vergleich zweier similarity Funktionen bezgl.:
-      - qualitativer Einschätzung des Outcomes
-      - performance Kennzahlen
+Vergleich zweier similarity Funktionen bezgl.:
+- qualitativer Einschätzung des Outcomes
+- performance Kennzahlen
